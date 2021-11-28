@@ -1,6 +1,5 @@
 import React from 'react'
-import { Box } from 'antd-styled'
-import { Row, Col } from '@qonsoll/react-design'
+import { Row, Col, Box } from '@qonsoll/react-design'
 import { Button } from 'antd'
 
 const Header = () => {
